@@ -1,0 +1,5409 @@
+{
+  "overview": {
+    "totalApplications": 307511,
+    "defaultRate": 0.08072881945686496,
+    "approvalRate": 0.9192711805431351,
+    "avgCreditAmount": 599025.9997057016,
+    "avgIncome": 168797.9192969845,
+    "totalCreditVolume": 184207084195.5
+  },
+  "riskDistribution": [
+    {
+      "name": "Low Risk",
+      "value": 282686,
+      "color": "#10b981"
+    },
+    {
+      "name": "High Risk",
+      "value": 24825,
+      "color": "#ef4444"
+    }
+  ],
+  "genderDistribution": [
+    {
+      "name": "Female",
+      "value": 202448,
+      "color": "#ec4899"
+    },
+    {
+      "name": "Male",
+      "value": 105059,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Other",
+      "value": 4,
+      "color": "#a855f7"
+    }
+  ],
+  "incomeTypeDistribution": [
+    {
+      "name": "Working",
+      "value": 158774
+    },
+    {
+      "name": "Commercial associate",
+      "value": 71617
+    },
+    {
+      "name": "Pensioner",
+      "value": 55362
+    },
+    {
+      "name": "State servant",
+      "value": 21703
+    },
+    {
+      "name": "Unemployed",
+      "value": 22
+    },
+    {
+      "name": "Student",
+      "value": 18
+    }
+  ],
+  "contractTypeDistribution": [
+    {
+      "name": "Cash loans",
+      "value": 278232
+    },
+    {
+      "name": "Revolving loans",
+      "value": 29279
+    }
+  ],
+  "educationDistribution": [
+    {
+      "name": "Secondary / secondary special",
+      "value": 218391
+    },
+    {
+      "name": "Higher education",
+      "value": 74863
+    },
+    {
+      "name": "Incomplete higher",
+      "value": 10277
+    },
+    {
+      "name": "Lower secondary",
+      "value": 3816
+    },
+    {
+      "name": "Academic degree",
+      "value": 164
+    }
+  ],
+  "creditAmountDistribution": [
+    {
+      "range": "$40K-$445K",
+      "count": 125109
+    },
+    {
+      "range": "$445K-$846K",
+      "count": 112729
+    },
+    {
+      "range": "$846K-$1246K",
+      "count": 44613
+    },
+    {
+      "range": "$1246K-$1647K",
+      "count": 18768
+    },
+    {
+      "range": "$1647K-$2047K",
+      "count": 4847
+    },
+    {
+      "range": "$2047K-$2448K",
+      "count": 1030
+    },
+    {
+      "range": "$2448K-$2848K",
+      "count": 372
+    },
+    {
+      "range": "$2848K-$3249K",
+      "count": 23
+    },
+    {
+      "range": "$3249K-$3649K",
+      "count": 8
+    },
+    {
+      "range": "$3649K-$4050K",
+      "count": 12
+    }
+  ],
+  "incomeCreditScatter": [
+    {
+      "income": 72000.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 610335.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 90000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 513531.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 601470.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 301500.0,
+      "credit": 1007761.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1341000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 337500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 390960.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1061599.5,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 679896.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 408780.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 232344.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 50940.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 550980.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 468000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 625536.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 36000.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 563080.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 545040.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 1575000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 360000.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 314055.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 254700.0,
+      "risk": 1
+    },
+    {
+      "income": 180000.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 376078.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 765000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 975771.0,
+      "risk": 1
+    },
+    {
+      "income": 67500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 573408.0,
+      "risk": 0
+    },
+    {
+      "income": 156600.0,
+      "credit": 862560.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 199080.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 247675.5,
+      "risk": 0
+    },
+    {
+      "income": 130500.0,
+      "credit": 295168.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 625536.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 265500.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 63000.0,
+      "credit": 544491.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 889515.0,
+      "risk": 0
+    },
+    {
+      "income": 427500.0,
+      "credit": 1096020.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 338832.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 1054935.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 1237500.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 279000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 81243.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 314100.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 728460.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1963494.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1005120.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1007761.5,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 411813.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 544491.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 334152.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 891072.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 283500.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 1002870.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 448299.0,
+      "risk": 1
+    },
+    {
+      "income": 315000.0,
+      "credit": 661500.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1288350.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 152820.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 973710.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 422235.0,
+      "risk": 0
+    },
+    {
+      "income": 148500.0,
+      "credit": 99000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1054773.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 360000.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 216000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 189000.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1724688.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 677664.0,
+      "risk": 0
+    },
+    {
+      "income": 675000.0,
+      "credit": 1984500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1551798.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1354500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1086426.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1436850.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 400500.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 684000.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 220500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 478498.5,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 808650.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1008117.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1288350.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1056447.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 314055.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 517500.0,
+      "risk": 1
+    },
+    {
+      "income": 180000.0,
+      "credit": 832500.0,
+      "risk": 1
+    },
+    {
+      "income": 121500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 261000.0,
+      "credit": 835380.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 942300.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 640080.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 1188000.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 177903.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 1077061.5,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 703728.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 526491.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1030257.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 312840.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 835605.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 253737.0,
+      "risk": 0
+    },
+    {
+      "income": 306000.0,
+      "credit": 573628.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 45000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 153000.0,
+      "risk": 1
+    },
+    {
+      "income": 202500.0,
+      "credit": 566055.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 1113840.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 219870.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1127074.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 770292.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 360000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1113840.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 153000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 314055.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 681444.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 536917.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 517608.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 337500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 495000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 865138.5,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 1546020.0,
+      "risk": 0
+    },
+    {
+      "income": 162000.0,
+      "credit": 523237.5,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 381528.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 787131.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 333621.0,
+      "risk": 1
+    },
+    {
+      "income": 180000.0,
+      "credit": 298512.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 364896.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 418500.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 216000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 247275.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 336370.5,
+      "risk": 0
+    },
+    {
+      "income": 49716.0,
+      "credit": 197820.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 130500.0,
+      "credit": 263686.5,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 585000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 284400.0,
+      "risk": 1
+    },
+    {
+      "income": 144000.0,
+      "credit": 553806.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 640080.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1054935.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 76500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 398016.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 306000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 96750.0,
+      "credit": 677664.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 180000.0,
+      "risk": 1
+    },
+    {
+      "income": 247500.0,
+      "credit": 835380.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 157500.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 862560.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 752553.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 597024.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 741276.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 1800000.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 104256.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1260000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 405000.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 579195.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1096020.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 373500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 305221.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 824823.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1160973.0,
+      "risk": 1
+    },
+    {
+      "income": 193500.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 472500.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1149210.0,
+      "risk": 0
+    },
+    {
+      "income": 256500.0,
+      "credit": 1024740.0,
+      "risk": 1
+    },
+    {
+      "income": 99000.0,
+      "credit": 364896.0,
+      "risk": 0
+    },
+    {
+      "income": 279000.0,
+      "credit": 544491.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1971072.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 81000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 207306.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1236816.0,
+      "risk": 1
+    },
+    {
+      "income": 103500.0,
+      "credit": 1257430.5,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 102429.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 521280.0,
+      "risk": 1
+    },
+    {
+      "income": 517500.0,
+      "credit": 835380.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 557770.5,
+      "risk": 0
+    },
+    {
+      "income": 153000.0,
+      "credit": 143910.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 239850.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 558706.5,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 436032.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1260000.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 1077061.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 526491.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 894766.5,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 790830.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 790830.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 144486.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 112500.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 207000.0,
+      "credit": 310500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 143910.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 247675.5,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 490495.5,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1800000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1546020.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 670500.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 204858.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 293733.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 765000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 387000.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 343800.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 164700.0,
+      "credit": 610335.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 1042560.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 417024.0,
+      "risk": 1
+    },
+    {
+      "income": 90000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 72000.0,
+      "credit": 276277.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 728460.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1012653.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 524403.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 110331.0,
+      "risk": 0
+    },
+    {
+      "income": 31500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 497520.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 49500.0,
+      "credit": 187704.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 253737.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 472500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 215640.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 276277.5,
+      "risk": 1
+    },
+    {
+      "income": 121500.0,
+      "credit": 302076.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 143910.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 1575000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 472500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 827496.0,
+      "risk": 0
+    },
+    {
+      "income": 94500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 485190.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 112500.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 110331.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 708939.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1024740.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 824823.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 232434.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 239850.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 283585.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 501435.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 253737.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1381113.0,
+      "risk": 0
+    },
+    {
+      "income": 337500.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 743958.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1166724.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 314100.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 331834.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1436850.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 473760.0,
+      "risk": 1
+    },
+    {
+      "income": 211500.0,
+      "credit": 188460.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 206280.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 790830.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 373140.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 592560.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 331920.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 490495.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 492862.5,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 256500.0,
+      "credit": 993082.5,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 256500.0,
+      "risk": 0
+    },
+    {
+      "income": 441000.0,
+      "credit": 848745.0,
+      "risk": 1
+    },
+    {
+      "income": 450000.0,
+      "credit": 395766.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 188460.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 746280.0,
+      "risk": 0
+    },
+    {
+      "income": 211500.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 495000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1014790.5,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 101880.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 365359.5,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 1762110.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 491823.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 298467.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 891072.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 194922.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 595903.5,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 296280.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 614223.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 337500.0,
+      "credit": 364896.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 88087.5,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 425133.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 312768.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 582804.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 540000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 343800.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 91008.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 579195.0,
+      "risk": 0
+    },
+    {
+      "income": 162000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 226422.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 332946.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 675000.0,
+      "risk": 1
+    },
+    {
+      "income": 270000.0,
+      "credit": 500211.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 2250000.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 474048.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 458725.5,
+      "risk": 1
+    },
+    {
+      "income": 56700.0,
+      "credit": 265851.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 454500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 907780.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 159205.5,
+      "risk": 1
+    },
+    {
+      "income": 126000.0,
+      "credit": 247500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 640458.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 993082.5,
+      "risk": 0
+    },
+    {
+      "income": 94500.0,
+      "credit": 862560.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 540000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 136260.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 273636.0,
+      "risk": 0
+    },
+    {
+      "income": 150039.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 382500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 187704.0,
+      "risk": 0
+    },
+    {
+      "income": 328500.0,
+      "credit": 1208304.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1125112.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 454500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 252000.0,
+      "credit": 601470.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 1312110.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 782181.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 283419.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 601470.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 539230.5,
+      "risk": 1
+    },
+    {
+      "income": 175500.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 94500.0,
+      "credit": 148365.0,
+      "risk": 0
+    },
+    {
+      "income": 49500.0,
+      "credit": 71955.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 937638.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 270000.0,
+      "risk": 1
+    },
+    {
+      "income": 265500.0,
+      "credit": 292500.0,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 539100.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1026000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 783927.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 126000.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 212427.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 247275.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 668304.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 323388.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 91647.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 630000.0,
+      "risk": 0
+    },
+    {
+      "income": 100854.0,
+      "credit": 152820.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 735579.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1061599.5,
+      "risk": 0
+    },
+    {
+      "income": 171000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 774000.0,
+      "risk": 0
+    },
+    {
+      "income": 198000.0,
+      "credit": 622413.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 279000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 485086.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 904500.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 848070.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 746280.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 509400.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 625536.0,
+      "risk": 1
+    },
+    {
+      "income": 54000.0,
+      "credit": 360000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 573408.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1711764.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 992556.0,
+      "risk": 1
+    },
+    {
+      "income": 63000.0,
+      "credit": 364896.0,
+      "risk": 1
+    },
+    {
+      "income": 270000.0,
+      "credit": 1236816.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 787131.0,
+      "risk": 0
+    },
+    {
+      "income": 540000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 1058197.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 593010.0,
+      "risk": 0
+    },
+    {
+      "income": 72000.0,
+      "credit": 125640.0,
+      "risk": 1
+    },
+    {
+      "income": 202500.0,
+      "credit": 1190340.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 364896.0,
+      "risk": 1
+    },
+    {
+      "income": 90000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 378000.0,
+      "credit": 1071000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 500566.5,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1611072.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 540000.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 457717.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 54000.0,
+      "risk": 0
+    },
+    {
+      "income": 238500.0,
+      "credit": 1132573.5,
+      "risk": 0
+    },
+    {
+      "income": 229500.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 193500.0,
+      "credit": 495972.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 405000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 517500.0,
+      "risk": 0
+    },
+    {
+      "income": 234000.0,
+      "credit": 824823.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 450000.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 265851.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 360000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 153000.0,
+      "credit": 1035832.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1255680.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 595912.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 384048.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 157500.0,
+      "risk": 0
+    },
+    {
+      "income": 175500.0,
+      "credit": 148365.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 327024.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 208512.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 540000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 69750.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 284400.0,
+      "risk": 1
+    },
+    {
+      "income": 153000.0,
+      "credit": 281938.5,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 386784.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 119893.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1312110.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 63000.0,
+      "credit": 101880.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 157050.0,
+      "risk": 1
+    },
+    {
+      "income": 180000.0,
+      "credit": 1283197.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 943425.0,
+      "risk": 0
+    },
+    {
+      "income": 292050.0,
+      "credit": 3860019.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 450000.0,
+      "risk": 1
+    },
+    {
+      "income": 189000.0,
+      "credit": 256500.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 916470.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 163008.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 370629.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 72000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 942300.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 900000.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1571931.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 550980.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 279000.0,
+      "credit": 927252.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1125000.0,
+      "risk": 1
+    },
+    {
+      "income": 315000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 391090.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1223010.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 447453.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 714915.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 585000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 585000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 760225.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 824823.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 473760.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 130365.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 341550.0,
+      "credit": 1574532.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 405000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 409500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 191700.0,
+      "credit": 573408.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 191880.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 207000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 630000.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 2517300.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 979992.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 288873.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1162170.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 560664.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 630000.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 942300.0,
+      "risk": 1
+    },
+    {
+      "income": 68400.0,
+      "credit": 76410.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 278613.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1042560.0,
+      "risk": 0
+    },
+    {
+      "income": 130500.0,
+      "credit": 568800.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 634482.0,
+      "risk": 1
+    },
+    {
+      "income": 225000.0,
+      "credit": 1082214.0,
+      "risk": 0
+    },
+    {
+      "income": 56250.0,
+      "credit": 298512.0,
+      "risk": 0
+    },
+    {
+      "income": 162000.0,
+      "credit": 225000.0,
+      "risk": 1
+    },
+    {
+      "income": 67500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 348264.0,
+      "risk": 1
+    },
+    {
+      "income": 270000.0,
+      "credit": 1266048.0,
+      "risk": 0
+    },
+    {
+      "income": 175500.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 215640.0,
+      "risk": 0
+    },
+    {
+      "income": 220500.0,
+      "credit": 427896.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 314100.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 568800.0,
+      "risk": 0
+    },
+    {
+      "income": 148500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 765261.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 1762110.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1078200.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 381528.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 582228.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 307152.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 539100.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 963000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 112050.0,
+      "credit": 286704.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 468121.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 810000.0,
+      "risk": 0
+    },
+    {
+      "income": 193500.0,
+      "credit": 900000.0,
+      "risk": 1
+    },
+    {
+      "income": 202500.0,
+      "credit": 494550.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 203760.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 719946.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1530000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 325908.0,
+      "risk": 1
+    },
+    {
+      "income": 1800000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 337500.0,
+      "credit": 573628.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1320849.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 337500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 227520.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 706221.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 260640.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 212656.5,
+      "risk": 0
+    },
+    {
+      "income": 252000.0,
+      "credit": 1024290.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 929088.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 500490.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 313438.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 634482.0,
+      "risk": 0
+    },
+    {
+      "income": 1125000.0,
+      "credit": 1185120.0,
+      "risk": 0
+    },
+    {
+      "income": 115546.5,
+      "credit": 423000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 582804.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 685012.5,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 417024.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 177903.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 191880.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 720000.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 485190.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 512145.0,
+      "risk": 0
+    },
+    {
+      "income": 540000.0,
+      "credit": 2013840.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 640080.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 592560.0,
+      "risk": 0
+    },
+    {
+      "income": 405000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 592560.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 165915.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 558841.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 148500.0,
+      "credit": 338314.5,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 207000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 276277.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 265851.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 260568.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 251091.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 79632.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 148500.0,
+      "credit": 640080.0,
+      "risk": 0
+    },
+    {
+      "income": 540000.0,
+      "credit": 2517300.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 592560.0,
+      "risk": 1
+    },
+    {
+      "income": 270000.0,
+      "credit": 971280.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 189000.0,
+      "credit": 247500.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 355536.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 398160.0,
+      "risk": 0
+    },
+    {
+      "income": 243000.0,
+      "credit": 314055.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 647046.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 688500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 990000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1339884.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 485086.5,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 93829.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 252000.0,
+      "risk": 1
+    },
+    {
+      "income": 315000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 176175.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 503676.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 121500.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 112500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1314117.0,
+      "risk": 0
+    },
+    {
+      "income": 148500.0,
+      "credit": 781920.0,
+      "risk": 1
+    },
+    {
+      "income": 180000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 330048.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 567000.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1560726.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 337500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 518562.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 568800.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 373500.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 339241.5,
+      "risk": 0
+    },
+    {
+      "income": 279000.0,
+      "credit": 369720.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 180000.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 239850.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 339948.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 544491.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 576000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 268659.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 746280.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 508495.5,
+      "risk": 0
+    },
+    {
+      "income": 65250.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 187704.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 405000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1287000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1506816.0,
+      "risk": 0
+    },
+    {
+      "income": 166500.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 286704.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 354276.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 536917.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 127350.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 239850.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 288873.0,
+      "risk": 0
+    },
+    {
+      "income": 252000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 291384.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 219042.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 113760.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 941193.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 163201.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 229500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 163201.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 208512.0,
+      "risk": 1
+    },
+    {
+      "income": 216000.0,
+      "credit": 270000.0,
+      "risk": 1
+    },
+    {
+      "income": 247500.0,
+      "credit": 1189710.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 868797.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 868500.0,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 749349.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 253737.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 152820.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 227520.0,
+      "risk": 0
+    },
+    {
+      "income": 211500.0,
+      "credit": 1024740.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 704844.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 432841.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 573408.0,
+      "risk": 1
+    },
+    {
+      "income": 235993.5,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1345500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 148707.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 918918.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 358213.5,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 95940.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 675000.0,
+      "credit": 1350000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 328405.5,
+      "risk": 0
+    },
+    {
+      "income": 216000.0,
+      "credit": 248760.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1159411.5,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 2250000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 252000.0,
+      "credit": 647046.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 1024290.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 566055.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 971280.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1256400.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 661500.0,
+      "risk": 0
+    },
+    {
+      "income": 292500.0,
+      "credit": 237384.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 338832.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 355536.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 1327500.0,
+      "risk": 0
+    },
+    {
+      "income": 99000.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 58500.0,
+      "credit": 349609.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 170640.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 373311.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 296280.0,
+      "risk": 0
+    },
+    {
+      "income": 189000.0,
+      "credit": 364896.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 508495.5,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 292500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 505642.5,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 343377.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 409500.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 728460.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 382500.0,
+      "credit": 1174090.5,
+      "risk": 0
+    },
+    {
+      "income": 184500.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 87750.0,
+      "credit": 279000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 315666.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 173092.5,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1589904.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 331920.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1762110.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 848745.0,
+      "risk": 0
+    },
+    {
+      "income": 540000.0,
+      "credit": 921330.0,
+      "risk": 0
+    },
+    {
+      "income": 58500.0,
+      "credit": 2146500.0,
+      "risk": 1
+    },
+    {
+      "income": 90000.0,
+      "credit": 518562.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1506816.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 310671.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 348264.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 265536.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 568800.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 715095.0,
+      "risk": 0
+    },
+    {
+      "income": 130500.0,
+      "credit": 1129500.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 414792.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1045854.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 860112.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 753840.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 497520.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 135000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 1071355.5,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 315000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 740088.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 640080.0,
+      "risk": 0
+    },
+    {
+      "income": 171000.0,
+      "credit": 571446.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 1125000.0,
+      "risk": 0
+    },
+    {
+      "income": 69750.0,
+      "credit": 472500.0,
+      "risk": 0
+    },
+    {
+      "income": 297000.0,
+      "credit": 942300.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 885154.5,
+      "risk": 1
+    },
+    {
+      "income": 270000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 652500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 157500.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 629320.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 942300.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 211500.0,
+      "risk": 0
+    },
+    {
+      "income": 2250000.0,
+      "credit": 1542645.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 382050.0,
+      "risk": 0
+    },
+    {
+      "income": 337500.0,
+      "credit": 607041.0,
+      "risk": 1
+    },
+    {
+      "income": 162000.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 612846.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 245896.02,
+      "credit": 1665000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 258709.5,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 298512.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 848745.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 651600.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 405000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 454500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1096020.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 509602.5,
+      "risk": 1
+    },
+    {
+      "income": 402750.0,
+      "credit": 1312110.0,
+      "risk": 0
+    },
+    {
+      "income": 108000.0,
+      "credit": 95940.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 589045.5,
+      "risk": 0
+    },
+    {
+      "income": 216000.0,
+      "credit": 302341.5,
+      "risk": 0
+    },
+    {
+      "income": 189000.0,
+      "credit": 632664.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 840996.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 152820.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 593010.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 781920.0,
+      "risk": 0
+    },
+    {
+      "income": 378000.0,
+      "credit": 805536.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 855000.0,
+      "risk": 0
+    },
+    {
+      "income": 36000.0,
+      "credit": 269550.0,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 1546020.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1099350.0,
+      "risk": 0
+    },
+    {
+      "income": 103500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 2695500.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 76500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 333337.5,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 213156.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 953460.0,
+      "risk": 0
+    },
+    {
+      "income": 247500.0,
+      "credit": 640080.0,
+      "risk": 0
+    },
+    {
+      "income": 54000.0,
+      "credit": 156384.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 417024.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 521280.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 405000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 239850.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 787131.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 612612.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 584014.5,
+      "risk": 0
+    },
+    {
+      "income": 36000.0,
+      "credit": 788103.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 341280.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 869296.5,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 545040.0,
+      "risk": 1
+    },
+    {
+      "income": 126000.0,
+      "credit": 312768.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 247500.0,
+      "risk": 0
+    },
+    {
+      "income": 189000.0,
+      "credit": 354276.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 327024.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 526500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 1237500.0,
+      "risk": 0
+    },
+    {
+      "income": 252000.0,
+      "credit": 324216.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 283419.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 215640.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 1800000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 942300.0,
+      "risk": 1
+    },
+    {
+      "income": 135000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 288873.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 983299.5,
+      "risk": 0
+    },
+    {
+      "income": 211500.0,
+      "credit": 760225.5,
+      "risk": 0
+    },
+    {
+      "income": 126000.0,
+      "credit": 281916.0,
+      "risk": 1
+    },
+    {
+      "income": 189000.0,
+      "credit": 364896.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 272520.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 270000.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 52128.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 454500.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 1006920.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 250213.5,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 351000.0,
+      "risk": 0
+    },
+    {
+      "income": 36000.0,
+      "credit": 274500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 168147.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 495000.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 797868.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 697500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 308133.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 733315.5,
+      "risk": 1
+    },
+    {
+      "income": 144000.0,
+      "credit": 315666.0,
+      "risk": 0
+    },
+    {
+      "income": 427500.0,
+      "credit": 585000.0,
+      "risk": 0
+    },
+    {
+      "income": 382500.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 755190.0,
+      "risk": 0
+    },
+    {
+      "income": 144000.0,
+      "credit": 810000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 202500.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 135000.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 127350.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 314055.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 325377.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 168102.0,
+      "risk": 0
+    },
+    {
+      "income": 94500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 876154.5,
+      "risk": 0
+    },
+    {
+      "income": 76500.0,
+      "credit": 481176.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 354276.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 1096020.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 571446.0,
+      "risk": 0
+    },
+    {
+      "income": 94500.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1078200.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 810000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 1080000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1994670.0,
+      "risk": 0
+    },
+    {
+      "income": 121500.0,
+      "credit": 62568.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 685386.0,
+      "risk": 1
+    },
+    {
+      "income": 112500.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 360000.0,
+      "credit": 1404000.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 272520.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 929088.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 585000.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 175500.0,
+      "credit": 808650.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 490495.5,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 343800.0,
+      "risk": 1
+    },
+    {
+      "income": 157500.0,
+      "credit": 675000.0,
+      "risk": 0
+    },
+    {
+      "income": 67500.0,
+      "credit": 180000.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 348264.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 247986.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 382500.0,
+      "risk": 0
+    },
+    {
+      "income": 405000.0,
+      "credit": 1190340.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 553806.0,
+      "risk": 0
+    },
+    {
+      "income": 216000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 117000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 602001.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 450000.0,
+      "credit": 274500.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 770292.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 999121.5,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 697500.0,
+      "risk": 0
+    },
+    {
+      "income": 157500.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 315000.0,
+      "credit": 1288350.0,
+      "risk": 0
+    },
+    {
+      "income": 90000.0,
+      "credit": 265851.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 312768.0,
+      "risk": 1
+    },
+    {
+      "income": 139500.0,
+      "credit": 254700.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 545040.0,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 337500.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 495000.0,
+      "risk": 0
+    },
+    {
+      "income": 45000.0,
+      "credit": 314100.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 252531.0,
+      "risk": 0
+    },
+    {
+      "income": 58500.0,
+      "credit": 500566.5,
+      "risk": 0
+    },
+    {
+      "income": 180000.0,
+      "credit": 835380.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 718605.0,
+      "risk": 0
+    },
+    {
+      "income": 112500.0,
+      "credit": 284400.0,
+      "risk": 0
+    },
+    {
+      "income": 202500.0,
+      "credit": 584766.0,
+      "risk": 0
+    },
+    {
+      "income": 135000.0,
+      "credit": 450000.0,
+      "risk": 0
+    },
+    {
+      "income": 101250.0,
+      "credit": 206280.0,
+      "risk": 0
+    },
+    {
+      "income": 405000.0,
+      "credit": 971280.0,
+      "risk": 0
+    },
+    {
+      "income": 81000.0,
+      "credit": 900000.0,
+      "risk": 0
+    },
+    {
+      "income": 225000.0,
+      "credit": 538704.0,
+      "risk": 0
+    },
+    {
+      "income": 65250.0,
+      "credit": 225000.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 679500.0,
+      "risk": 0
+    },
+    {
+      "income": 270000.0,
+      "credit": 986782.5,
+      "risk": 0
+    },
+    {
+      "income": 85500.0,
+      "credit": 253737.0,
+      "risk": 0
+    }
+  ],
+  "ageDistribution": [
+    {
+      "ageGroup": "0-25",
+      "count": 12159
+    },
+    {
+      "ageGroup": "25-35",
+      "count": 72302
+    },
+    {
+      "ageGroup": "35-45",
+      "count": 84274
+    },
+    {
+      "ageGroup": "45-55",
+      "count": 70077
+    },
+    {
+      "ageGroup": "55-65",
+      "count": 60596
+    },
+    {
+      "ageGroup": "65-100",
+      "count": 8103
+    }
+  ],
+  "defaultRateByIncome": [
+    {
+      "category": "Working",
+      "rate": 0.09588471664126369,
+      "count": 158774
+    },
+    {
+      "category": "Commercial associate",
+      "rate": 0.07484256531270508,
+      "count": 71617
+    },
+    {
+      "category": "State servant",
+      "rate": 0.05754964751416855,
+      "count": 21703
+    },
+    {
+      "category": "Pensioner",
+      "rate": 0.053863660994906255,
+      "count": 55362
+    }
+  ],
+  "monthlyApplications": [
+    {
+      "month": "Jan 2015",
+      "applications": 8540
+    },
+    {
+      "month": "Feb 2015",
+      "applications": 8550
+    },
+    {
+      "month": "Mar 2015",
+      "applications": 8534
+    },
+    {
+      "month": "Apr 2015",
+      "applications": 8490
+    },
+    {
+      "month": "May 2015",
+      "applications": 8547
+    },
+    {
+      "month": "Jun 2015",
+      "applications": 8563
+    },
+    {
+      "month": "Jul 2015",
+      "applications": 8538
+    },
+    {
+      "month": "Aug 2015",
+      "applications": 8543
+    },
+    {
+      "month": "Sep 2015",
+      "applications": 8554
+    },
+    {
+      "month": "Oct 2015",
+      "applications": 8556
+    },
+    {
+      "month": "Nov 2015",
+      "applications": 8472
+    },
+    {
+      "month": "Dec 2015",
+      "applications": 8524
+    },
+    {
+      "month": "Jan 2016",
+      "applications": 8505
+    },
+    {
+      "month": "Feb 2016",
+      "applications": 8608
+    },
+    {
+      "month": "Mar 2016",
+      "applications": 8568
+    },
+    {
+      "month": "Apr 2016",
+      "applications": 8558
+    },
+    {
+      "month": "May 2016",
+      "applications": 8507
+    },
+    {
+      "month": "Jun 2016",
+      "applications": 8508
+    },
+    {
+      "month": "Jul 2016",
+      "applications": 8537
+    },
+    {
+      "month": "Aug 2016",
+      "applications": 8575
+    },
+    {
+      "month": "Sep 2016",
+      "applications": 8548
+    },
+    {
+      "month": "Oct 2016",
+      "applications": 8513
+    },
+    {
+      "month": "Nov 2016",
+      "applications": 8493
+    },
+    {
+      "month": "Dec 2016",
+      "applications": 8590
+    },
+    {
+      "month": "Jan 2017",
+      "applications": 8538
+    },
+    {
+      "month": "Feb 2017",
+      "applications": 8524
+    },
+    {
+      "month": "Mar 2017",
+      "applications": 8560
+    },
+    {
+      "month": "Apr 2017",
+      "applications": 8501
+    },
+    {
+      "month": "May 2017",
+      "applications": 8529
+    },
+    {
+      "month": "Jun 2017",
+      "applications": 8543
+    },
+    {
+      "month": "Jul 2017",
+      "applications": 8565
+    },
+    {
+      "month": "Aug 2017",
+      "applications": 8527
+    },
+    {
+      "month": "Sep 2017",
+      "applications": 8569
+    },
+    {
+      "month": "Oct 2017",
+      "applications": 8594
+    },
+    {
+      "month": "Nov 2017",
+      "applications": 8581
+    },
+    {
+      "month": "Dec 2017",
+      "applications": 8559
+    }
+  ],
+  "familyStatusDistribution": [
+    {
+      "name": "Married",
+      "value": 196432
+    },
+    {
+      "name": "Single / not married",
+      "value": 45444
+    },
+    {
+      "name": "Civil marriage",
+      "value": 29775
+    },
+    {
+      "name": "Separated",
+      "value": 19770
+    },
+    {
+      "name": "Widow",
+      "value": 16088
+    },
+    {
+      "name": "Unknown",
+      "value": 2
+    }
+  ],
+  "housingTypeDistribution": [
+    {
+      "name": "House / apartment",
+      "value": 272868
+    },
+    {
+      "name": "With parents",
+      "value": 14840
+    },
+    {
+      "name": "Municipal apartment",
+      "value": 11183
+    },
+    {
+      "name": "Rented apartment",
+      "value": 4881
+    },
+    {
+      "name": "Office apartment",
+      "value": 2617
+    },
+    {
+      "name": "Co-op apartment",
+      "value": 1122
+    }
+  ],
+  "avgCreditByEducation": [
+    {
+      "education": "Academic degree",
+      "avgCredit": 723515.625
+    },
+    {
+      "education": "Higher education",
+      "avgCredit": 689950.456099809
+    },
+    {
+      "education": "Incomplete higher",
+      "avgCredit": 566730.5591612338
+    },
+    {
+      "education": "Lower secondary",
+      "avgCredit": 489748.5613207547
+    },
+    {
+      "education": "Secondary / secondary special",
+      "avgCredit": 571193.3924543593
+    }
+  ]
+}
